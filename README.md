@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I’m pursuing a Master's degree in Software Engineering at Fudan University.
-- 💼 &nbsp; Looking for a job about Frontend.
+- 💼 &nbsp; Looking for an opportunity about front-end job.
 - 🌱 &nbsp; Learning more about Web Developement.
 - ⚡️ &nbsp; I'm a fan of Anime.
 
