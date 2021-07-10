@@ -31,9 +31,12 @@
 
 <br/>
 
+<!--
 <a href="https://github.com/yleave">
   <img src="https://github-readme-stats.vercel.app/api?username=yleave&theme=buefy&show_icons=true" />
 </a>
+-->
+
 
 <p align="center">
   
